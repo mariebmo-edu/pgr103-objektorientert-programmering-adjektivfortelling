@@ -1,0 +1,7 @@
+rød, lilla, gul, teit, fin, smart, dum, dust, kul, søt, liten
+---
+røde, lilla, gule, teite, fine, smarte, dumme, dustete
+---
+rødt, lilla, gult, humpete, skjeggete, grumsete, teit, fint, dust
+---
+Geir, Hanne, Laila, Preben, Torkjel
